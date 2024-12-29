@@ -8,3 +8,5 @@ scikit-learn
 scipy
 statsmodels
 dvc
+xgboost
+sharp
