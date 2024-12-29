@@ -9,4 +9,4 @@ scipy
 statsmodels
 dvc
 xgboost
-sharp
+shap
